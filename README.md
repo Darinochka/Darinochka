@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Darina</h1>
+<h1 align="center">Hi, I'm Darina</h1>
 
 🚀 I’m a Master’s student at **AI Talent Hub (ITMO)** and an alumna of **HSE University**.
 
