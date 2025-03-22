@@ -3,19 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darinochka&label=Profile%20views&color=0e75b6&style=flat" alt="darinochka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darinochka" alt="darinochka" /></a> </p>
+🚀 I’m a Master’s student at **AI Talent Hub (ITMO)** and an alumna of HSE University.
+Currently, I’m working as a **Research Developer at MTS AI**, where I’m building [Cotype](https://mts.ai/ru/product/generative-ai-solutions/) — a cutting-edge generative AI solution for businesses.
 
-- 🚀 I'm working as a Research Developer at MTS AI, building [Cotype – a cutting-edge generative AI solution](https://mts.ai/ru/product/generative-ai-solutions/)
+🌱 I’m deepening my expertise in **Recommender Systems**, **Speech Recognition**, and **MLOps**, while always exploring new horizons in NLP and LLMs.
 
-- 🌱 I’m currently learning **Recommend systems, Speech recognition, MLOps**
+👯 Open to collaborations! I'm actively developing [AutoIntent](https://github.com/deeppavlov/AutoIntent), an open-source framework for automatic configuration of text classification pipelines for intent prediction. Would love to connect if you’re into open-source too!
 
-- 👯 I’m looking to collaborate on [AutoIntent](https://github.com/deeppavlov/AutoIntent)
+💬 Feel free to ask me about **LLMs**, **NLP**, or **ML pipelines** — always happy to chat about models, tools, and best practices.
 
-- 💬 Ask me about **LLM, NLP, ML**
+📫 Let’s connect! [@jndooe](https://t.me/jndooe)
 
-- 📫 How to reach me **https://t.me/jndooe**
+📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1ChGxqn9LywEyQMydjuLMAeKDH0JZsb1z/view?usp=sharing).
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ChGxqn9LywEyQMydjuLMAeKDH0JZsb1z/view?usp=sharing](https://drive.google.com/file/d/1ChGxqn9LywEyQMydjuLMAeKDH0JZsb1z/view?usp=sharing)
+🎬👾 Outside of work, I’m into swimming, hitting the gym, and geeking out on movies and sci-fi worlds.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
