@@ -13,7 +13,7 @@ Currently, I’m working as a **Research Developer at MTS AI**, where I’m buil
 
 📫 Let’s connect! [@jndooe](https://t.me/jndooe)
 
-📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1ChGxqn9LywEyQMydjuLMAeKDH0JZsb1z/view?usp=sharing).
+📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1r3N6adZ5GHlmK21Cr2RINpuiDi0znrfZ/view?usp=sharing)).
 
 🎬👾 Outside of work, I’m into swimming, hitting the gym, and geeking out on movies and sci-fi worlds.
 
