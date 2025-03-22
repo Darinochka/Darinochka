@@ -6,11 +6,9 @@ Currently, I’m working as a **Research Developer at MTS AI**, where I’m buil
 
 👯 Open to collaborations! I'm actively developing [AutoIntent](https://github.com/deeppavlov/AutoIntent), an open-source framework for automatic configuration of text classification pipelines for intent prediction. Would love to connect if you’re into open-source too!
 
-💬 Feel free to ask me about **LLMs**, **NLP**, or **ML pipelines** — always happy to chat about models, tools, and best practices.
+💬 Feel free to ask me about **LLMs**, **NLP**, or **ML pipelines** — always happy to chat about models, tools, and best practices. Let’s connect! [@jndooe](https://t.me/jndooe)
 
-📫 Let’s connect! [@jndooe](https://t.me/jndooe)
-
-📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1r3N6adZ5GHlmK21Cr2RINpuiDi0znrfZ/view?usp=sharing)).
+📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1r3N6adZ5GHlmK21Cr2RINpuiDi0znrfZ/view?usp=sharing).
 
 👾 Outside of work, I’m into swimming, hitting the gym, and geeking out on movies and sci-fi worlds.
 
