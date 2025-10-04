@@ -2,7 +2,7 @@
 
 🚀 I’m a Master’s student at **AI Talent Hub (ITMO)** and an alumna of **HSE University**.
 
-Currently, I am working as a **Machine Learning Engineer at T-Bank**, where I build AI copilots for first-line support operators. Previously, I worked at MTS AI as a Researcher on Cotype — a cutting-edge generative AI solution for businesses.
+Currently, I am working as a **Machine Learning Engineer at T-Bank**, where I build AI copilots for first-line support operators. Previously, I worked at MTS AI as a Researcher on Cotype — a generative AI solution for businesses.
 
 💬 Feel free to ask me about **LLMs**, **NLP**, or **ML pipelines** — always happy to chat about models, tools, and best practices. Let’s connect! [@jndooe](https://t.me/jndooe)
 
@@ -16,4 +16,5 @@ Currently, I am working as a **Machine Learning Engineer at T-Bank**, where I bu
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinochka&show_icons=true&locale=en&layout=compact" alt="darinochka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darinochka&show_icons=true&locale=en" alt="darinochka" /></p>
+
 
