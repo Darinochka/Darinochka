@@ -2,13 +2,11 @@
 
 🚀 I’m a Master’s student at **AI Talent Hub (ITMO)** and an alumna of **HSE University**.
 
-Currently, I’m working as a **Research Developer at MTS AI**, where I’m building [Cotype](https://mts.ai/ru/product/generative-ai-solutions/) — a cutting-edge generative AI solution for businesses.
-
-👯 Open to collaborations! I'm actively developing [AutoIntent](https://github.com/deeppavlov/AutoIntent), an open-source framework for automatic configuration of text classification pipelines for intent prediction. Would love to connect if you’re into open-source too!
+Currently, I am working as a **Machine Learning Engineer at T-Bank**, where I build AI copilots for first-line support operators. Previously, I worked at MTS AI as a Researcher on Cotype — a cutting-edge generative AI solution for businesses.
 
 💬 Feel free to ask me about **LLMs**, **NLP**, or **ML pipelines** — always happy to chat about models, tools, and best practices. Let’s connect! [@jndooe](https://t.me/jndooe)
 
-📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1r3N6adZ5GHlmK21Cr2RINpuiDi0znrfZ/view?usp=sharing).
+📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1rUh1PalpbxLP144QJrDexs1t-cmAOnQe/view?usp=sharing).
 
 👾 Outside of work, I’m into swimming, hitting the gym, and geeking out on movies and sci-fi worlds.
 
@@ -18,3 +16,4 @@ Currently, I’m working as a **Research Developer at MTS AI**, where I’m buil
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinochka&show_icons=true&locale=en&layout=compact" alt="darinochka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darinochka&show_icons=true&locale=en" alt="darinochka" /></p>
+
