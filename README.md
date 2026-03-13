@@ -6,7 +6,7 @@ Currently, I am working as a **Machine Learning Engineer at T-Bank**, where I bu
 
 💬 Feel free to ask me about **LLMs**, **NLP**, or **ML pipelines** — always happy to chat about models, tools, and best practices. Let’s connect! [@jndooe](https://t.me/jndooe)
 
-📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/13uUjbtwt6NKzw49dRT5QxcomWdotooTP/view?usp=sharing).
+📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1GImd4paO5KIS9V66pwcLCCRmSS-xQ5AQ/view?usp=sharing).
 
 👾 Outside of work, I’m into swimming, hitting the gym, and geeking out on movies and sci-fi worlds.
 
@@ -16,6 +16,7 @@ Currently, I am working as a **Machine Learning Engineer at T-Bank**, where I bu
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darinochka&show_icons=true&locale=en&layout=compact" alt="darinochka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darinochka&show_icons=true&locale=en" alt="darinochka" /></p>
+
 
 
 
