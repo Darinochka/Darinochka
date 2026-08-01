@@ -2,11 +2,11 @@
 
 🚀 I’m a Master’s student at **AI Talent Hub (ITMO)** and an alumna of **HSE University**.
 
-Currently, I am working as a **Machine Learning Engineer at T-Bank**, where I build AI copilots for first-line support operators. Previously, I worked at MTS AI as a Researcher on Cotype — a generative AI solution for businesses.
+Currently, I am a **Machine Learning Engineer at Yandex**, working on vision-language models for Alice. Before that, I built AI copilots for first-line support operators at T-Bank, and worked as a Researcher at MTS AI on Cotype, a generative AI solution for businesses.
 
 💬 Feel free to ask me about **LLMs**, **NLP**, or **ML pipelines** — always happy to chat about models, tools, and best practices. Let’s connect! [@jndooe](https://t.me/jndooe)
 
-📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1GImd4paO5KIS9V66pwcLCCRmSS-xQ5AQ/view?usp=sharing).
+📄 Curious about my experience? Here’s my [CV](https://drive.google.com/file/d/1l7cIEkyw7RdzvFpkGTAae5TpQ-LEbCFc/view?usp=sharing).
 
 👾 Outside of work, I’m into swimming, hitting the gym, and geeking out on movies and sci-fi worlds.
 
