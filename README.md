@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Darina</h1>
 
-🚀 I’m a Master’s student at **AI Talent Hub (ITMO)** and an alumna of **HSE University**.
+🚀 I hold a Master's degree from **AI Talent Hub (ITMO)** and a Bachelor's from **HSE University**.
 
 Currently, I am a **Machine Learning Engineer at Yandex**, working on vision-language models for Alice. Before that, I built AI copilots for first-line support operators at T-Bank, and worked as a Researcher at MTS AI on Cotype, a generative AI solution for businesses.
 
